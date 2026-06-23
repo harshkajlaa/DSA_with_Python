@@ -7,5 +7,7 @@ My Data Structures and Algorithms journey using Python.
 - Two Sum
 - Richest Customer Wealth
 - Concatenation of Array
+- Contains Duplicate
+- Find numbers with Even Number of Digits
 
 Platform: LeetCode
